@@ -1,6 +1,8 @@
 # Pi Runtime Field Guide
 
-当前维护于 [xiaowei-ai-tools 的 Pi 项目目录](https://github.com/siuserxiaowei/xiaowei-ai-tools/tree/main/projects/AI%20%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/pi-runtime-field-guide)，旧独立仓库的历史来源见整合仓库根目录 `MIGRATION.json`。本站文件可本地预览；整合仓库尚未配置 GitHub Pages。
+**网页阅读：[Pi Runtime Field Guide](https://siuserxiaowei.github.io/pi-runtime-field-guide/) · [11 月更新与三工具对比](https://siuserxiaowei.github.io/pi-runtime-field-guide/updates/2026-11-03.html)**
+
+源码维护于 [xiaowei-ai-tools 的 Pi 项目目录](https://github.com/siuserxiaowei/xiaowei-ai-tools/tree/main/projects/AI%20%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/pi-runtime-field-guide)，公开阅读版由个人主页仓库的 `pi-runtime-field-guide/` 目录发布。旧独立仓库的历史来源见整合仓库根目录 `MIGRATION.json`。
 
 ## 最新研究 · 2026-11-03
 
